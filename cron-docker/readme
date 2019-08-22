@@ -1,0 +1,7 @@
+to buiild:
+
+docker build -t mycron .
+
+and finally to run:
+
+docker run -d mycron
